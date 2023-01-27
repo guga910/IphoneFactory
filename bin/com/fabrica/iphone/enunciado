@@ -1,0 +1,3 @@
+Iphone é uma interface que é implementada por 3 objetos “IphoneX”,”Iphone9” e “Iphone13Mini” 
+Iphone Factory é uma classe concreta que é responsável por criar esses objetos 
+de acordo com um tipo especificado no TypeIphoneEnum
